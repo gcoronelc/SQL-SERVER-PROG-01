@@ -1,4 +1,4 @@
-![SQL SERVER IMPLEMENTACIÓN](https://raw.githubusercontent.com/gcoronelc/SQL-SERVER-PROG-01/master/img/sql2.png)
+![SQL SERVER PROGRAMACIÓN](https://raw.githubusercontent.com/gcoronelc/SQL-SERVER-PROG-01/main/img/sql2.png)
 
 # DATOS GENERALES
 
