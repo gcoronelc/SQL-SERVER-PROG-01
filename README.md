@@ -23,6 +23,7 @@
 - Canal Youtube: https://n9.cl/gustavocoronel
 - Grupo FaceBook: https://www.facebook.com/groups/desarrollasoftware/
 - Cursos Virtuales: http://gcoronelc.github.io/
+- WS de Programación: https://n9.cl/java-oracle
 
 
 # RECURSOS EN YUTUBE
