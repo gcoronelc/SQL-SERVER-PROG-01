@@ -12,7 +12,7 @@
 - Canal Youtube: https://n9.cl/gustavocoronel
 - Recursos: http://gcoronelc.blogspot.com/p/sql-server.html
 - Grupo de WS: https://chat.whatsapp.com/LYVxfuNBVfSI6dpcOU9D4J
-
+- Contenido: https://www.ceps.uni.edu.pe/tienda/tecnologia-e-innovacion/programa-sql-server-data-base-administrator/sql-server-ii-programacion/
 
 ## DATOS DEL DOCENTE
 
