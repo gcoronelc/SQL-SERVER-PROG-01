@@ -1,22 +1,19 @@
-﻿Grupo 1
+﻿---------------------------------------------------------------
+Correo: egcc.uni@gmail.com
+Asunto: CEPSUNI - SQL Server II - Laboratorio ##
+---------------------------------------------------------------
 
 
-Grupo 2
+LABORATORIO 01
+============================================================
+Tema: USO DE INDICES
+Entrega:
+- Trabajo monografico
+- Video (Enlace de Youtube)
 
 
-Grupo 3
 
 
-Grupo 4
-
-
-Grupo 5
-
-
-Grupo 6
-
-
-Grupo 7
 
 
 
