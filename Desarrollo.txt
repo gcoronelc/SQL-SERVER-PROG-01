@@ -7,7 +7,7 @@ Asunto: CEPSUNI - SQL Server | - Tarea 01
 SEMANA 01
 =============================================
 1.- Repositorio Git
-2.- 
+2.- Indices
 2.- 
 
 
