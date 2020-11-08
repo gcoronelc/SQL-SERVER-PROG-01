@@ -1,6 +1,6 @@
 
 Correo: egcc.uni@gmail.com
-Asunto: CEPSUNI - SQL Server | - Tarea 01
+Asunto: CEPSUNI - SQL Server | - Laboratorio 01
 
 
 
@@ -8,7 +8,7 @@ SEMANA 01
 =============================================
 1.- Repositorio Git
 2.- Indices
-2.- 
+2.- Introducción a la programación - Funciones
 
 
 
