@@ -92,6 +92,54 @@ BEGIN
 END;
 GO
 
+-- Ejercicio 8
+-- Leon
+create function fn_factorial(@numero int)
+returns int
+as
+begin
+	declare @factorial int
+	set @factorial=1
+	while(@numero>1)
+	begin	
+		set @factorial=@factorial*@numero
+		set @numero=@numero-1
+	end
+	return @factorial
+end
+go
+
+select dbo.fn_factorial(6)
 
 
+-- Promedio
+create function dbo.fnPromedio
+(@n1 int, @n2 int, @n3 int, @n4 int)
+returns int
+as
+begin
+	declare @menor int, @promedio int;
+
+end;
+go
+
+
+-- Soberon
+create function dbo.fn_notas(@n1 int,@n2 int,@n3 int,@n4 int)
+returns decimal(4,2)
+as
+begin
+	declare @prom decimal(4,2);
+	declare @menor int;
+	set @menor=@n1;
+	if(@menor>@n2) set @menor=@n2;
+	if(@menor>@n3) set @menor=@n3;
+	if(@menor>@n4) set @menor=@n4;
+	set @prom=(@n1+@n2+@n3+@n4-@menor)/3;
+	return @prom
+end;
+go
+
+select dbo.fn_notas(10,14,16,18) promedio;
+go
 
