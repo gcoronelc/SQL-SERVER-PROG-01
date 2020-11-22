@@ -109,21 +109,11 @@ begin
 end
 go
 
-select dbo.fn_factorial(6)
-
-
--- Promedio
-create function dbo.fnPromedio
-(@n1 int, @n2 int, @n3 int, @n4 int)
-returns int
-as
-begin
-	declare @menor int, @promedio int;
-
-end;
+select dbo.fn_factorial(6);
 go
 
 
+-- Promedio
 -- Soberon
 create function dbo.fn_notas(@n1 int,@n2 int,@n3 int,@n4 int)
 returns decimal(4,2)
