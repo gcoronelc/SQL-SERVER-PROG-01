@@ -99,6 +99,7 @@ BEGIN
 	FETCH NEXT FROM CUR_RESUMEN INTO @profesor, @anio, @trimestre, @cursos, @estudiantes;
 END;
 
+PRINT CONCAT('FILAS: ', @@CURSOR_ROWS);
 
 CLOSE CUR_RESUMEN;
 DEALLOCATE CUR_RESUMEN;
